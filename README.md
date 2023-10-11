@@ -1,0 +1,2 @@
+# hardware
+only hardware info
